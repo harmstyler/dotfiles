@@ -10,3 +10,6 @@
 [submodule "system/vim.symlink/bundles/vim-endwise"]
 	path = system/vim.symlink/bundles/vim-endwise
 	url = git@github.com:tpope/vim-endwise.git
+[submodule "system/vim.symlink/vim-rails"]
+	path = system/vim.symlink/vim-rails
+	url = git@github.com:tpope/vim-rails.git
