@@ -4,9 +4,6 @@
 [submodule "system/vim.symlink/bundles/nerdcommenter"]
 	path = system/vim.symlink/bundles/nerdcommenter
 	url = git@github.com:scrooloose/nerdcommenter.git
-[submodule "system/vim.symlink/bundles/nerdtree"]
-	path = system/vim.symlink/bundles/nerdtree
-	url = git@github.com:scrooloose/nerdtree.git
 [submodule "system/vim.symlink/bundles/vim-endwise"]
 	path = system/vim.symlink/bundles/vim-endwise
 	url = git@github.com:tpope/vim-endwise.git
