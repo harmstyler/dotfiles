@@ -16,3 +16,6 @@
 [submodule "system/vim.symlink/bundles/vim-ruby"]
 	path = system/vim.symlink/bundles/vim-ruby
 	url = git@github.com:vim-ruby/vim-ruby.git
+[submodule "system/vim.symlink/bundles/vim-vividchalk"]
+	path = system/vim.symlink/bundles/vim-vividchalk
+	url = git@github.com:tpope/vim-vividchalk.git
