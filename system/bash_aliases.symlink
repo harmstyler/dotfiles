@@ -1,0 +1,28 @@
+# ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# General Aliases
+alias me='cd ~'
+alias dotfiles='cd ~/bin/dotfiles/bash'
+alias cc='sudo -u $(whoami) php bin/php/ezcache.php --clear-all --purge' # eZ Publish clear cache
+alias autoload='sudo -u $(whoami) php bin/php/ezpgenerateautoloads.php' # eZ Publish generate autoloads
+alias ezc='sudo -u $(whoami) php bin/php/eztc.php ' # eZ Publish pre-compile templates
+alias startsolr='java -Dsolr.solr.home=solr.multicore -jar start.jar' # start solr from multi-core home
+alias convertdir='find . -type f \! -path \*/\.git/\* -exec dos2unix {} \;' # Searches current directory and converts all dos file endings to unix skipping git dir
+alias pear="php /usr/lib/php/pear/pearcmd.php"
+alias pecl="php /usr/lib/php/pear/peclcmd.php"
+
+#Git Aliases
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit'
+alias gd='git diff'
+alias go='git checkout '
+alias gk='gitk --all&'
+alias gx='gitx --all'
+
+alias got='git '
+alias get='git '
