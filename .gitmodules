@@ -13,3 +13,6 @@
 [submodule "system/vim.symlink/vim-rails"]
 	path = system/vim.symlink/vim-rails
 	url = git@github.com:tpope/vim-rails.git
+[submodule "system/vim.symlink/bundles/vim-rails"]
+	path = system/vim.symlink/bundles/vim-rails
+	url = git@github.com:tpope/vim-rails.git
