@@ -1,3 +1,6 @@
 [submodule "system/vim.symlink/bundles/vimux"]
 	path = system/vim.symlink/bundles/vimux
 	url = git@github.com:benmills/vimux.git
+[submodule "system/vim.symlink/bundles/nerdcommenter"]
+	path = system/vim.symlink/bundles/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
