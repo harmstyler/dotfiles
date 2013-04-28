@@ -19,3 +19,6 @@
 [submodule "system/vim.symlink/bundles/vim-vividchalk"]
 	path = system/vim.symlink/bundles/vim-vividchalk
 	url = git@github.com:tpope/vim-vividchalk.git
+[submodule "system/vim.symlink/bundles/php.vim"]
+	path = system/vim.symlink/bundles/php.vim
+	url = git@github.com:StanAngeloff/php.vim.git
