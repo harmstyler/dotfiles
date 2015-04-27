@@ -3,6 +3,7 @@
 *~
 *.swp
 *.rbc
+.sass-cache
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode
 
